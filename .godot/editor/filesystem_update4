@@ -1,0 +1,7 @@
+res://main.tscn
+res://bullet.tscn
+res://enemy.tscn
+res://enemy.gd
+res://player.gd
+res://player.tscn
+res://bullet.gd
