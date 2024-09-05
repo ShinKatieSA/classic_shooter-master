@@ -1,33 +1,33 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1724707019
-bullet.gd::GDScript::-1::1724467752::0::1::::<>Area2D<>::
-bullet.tscn::PackedScene::1622289840410870778::1724467752::0::1::::<><>::res://bullet.gd<>uid://g7mxfk1egvfn::::res://Mini Pixel Pack 3/Projectiles/Player_charged_beam (16 x 16).png
-enemy.gd::GDScript::-1::1724467752::0::1::::<>Area2D<>::
-enemy.tscn::PackedScene::8617112561024361415::1724467752::0::1::::<><>::res://enemy.gd<>uid://581esl2mng2g::::res://Mini Pixel Pack 3/Enemies/Bon_Bon (16 x 16).png
+::res://::1725569830
+bullet.gd::GDScript::-1::1724967065::0::1::::<>Area2D<>::
+bullet.tscn::PackedScene::1622289840410870778::1725569517::0::1::::<><>::res://bullet.gd<>uid://g7mxfk1egvfn::::res://Mini Pixel Pack 3/Projectiles/Player_charged_beam (16 x 16).png
+enemy.gd::GDScript::-1::1725394311::0::1::::<>Area2D<>::
+enemy.tscn::PackedScene::8617112561024361415::1725569517::0::1::::<><>::res://enemy.gd<>uid://581esl2mng2g::::res://Mini Pixel Pack 3/Enemies/Bon_Bon (16 x 16).png
 icon.svg::CompressedTexture2D::5838087925447111224::1724467752::1724707020::1::::<><>::
 main.gd::GDScript::-1::1724467752::0::1::::<>Node2D<>::
-main.tscn::PackedScene::5833144911897289106::1724467752::0::1::::<><>::res://main.gd<>uid://dhtoayfqel06q::::res://Mini Pixel Pack 3/Space_BG (2 frames) (64 x 64).png<>uid://bxvqu3wutpwn2::::res://player.tscn
-player.gd::GDScript::-1::1724467752::0::1::::<>Area2D<>::
-player.tscn::PackedScene::4045124713539678037::1724467752::0::1::::<><>::uid://d3bq5ke7qkakx::::res://Mini Pixel Pack 3/Player ship/Player_ship (16 x 16).png<>res://player.gd<>uid://xd342n6x27ic::::res://bullet.tscn<>uid://dyytho1aw2qxx::::res://Mini Pixel Pack 3/Player ship/Boosters (16 x 16).png<>uid://cwn2glpcg4y6s::::res://Mini Pixel Pack 3/Player ship/Boosters_left (16 x 16).png<>uid://gxggeam5dxcp::::res://Mini Pixel Pack 3/Player ship/Boosters_right (16 x 16).png
-::res://Mini Pixel Pack 3/::1724467752
+main.tscn::PackedScene::5833144911897289106::1725569517::0::1::::<><>::res://main.gd<>uid://dhtoayfqel06q::::res://Mini Pixel Pack 3/Space_BG (2 frames) (64 x 64).png<>uid://bxvqu3wutpwn2::::res://player.tscn
+player.gd::GDScript::-1::1724967364::0::1::::<>Area2D<>::
+player.tscn::PackedScene::4045124713539678037::1725569517::0::1::::<><>::uid://d3bq5ke7qkakx::::res://Mini Pixel Pack 3/Player ship/Player_ship (16 x 16).png<>res://player.gd<>uid://xd342n6x27ic::::res://bullet.tscn<>uid://dyytho1aw2qxx::::res://Mini Pixel Pack 3/Player ship/Boosters (16 x 16).png<>uid://cwn2glpcg4y6s::::res://Mini Pixel Pack 3/Player ship/Boosters_left (16 x 16).png<>uid://gxggeam5dxcp::::res://Mini Pixel Pack 3/Player ship/Boosters_right (16 x 16).png
+::res://Mini Pixel Pack 3/::1725569830
 LICENSE.txt::TextFile::-1::1724467752::0::1::::<><>::
 Space_BG (2 frames) (64 x 64).png::CompressedTexture2D::7690658440788596074::1724467752::1724707020::1::::<><>::
-::res://Mini Pixel Pack 3/Effects/::1724467752
-Explosion (16 x 16).png::CompressedTexture2D::5615240292035008546::1724467752::1724707020::1::::<><>::
+::res://Mini Pixel Pack 3/Effects/::1725569830
+Explosion (16 x 16).png::CompressedTexture2D::5615240292035008546::1724467752::1725569830::1::::<><>::
 Sparkle (16 x 16).png::CompressedTexture2D::7246567798527513167::1724467752::1724707020::1::::<><>::
-::res://Mini Pixel Pack 3/Enemies/::1724467752
+::res://Mini Pixel Pack 3/Enemies/::1724707020
 Alan (16 x 16).png::CompressedTexture2D::507140460008653393::1724467752::1724707020::1::::<><>::
 Bon_Bon (16 x 16).png::CompressedTexture2D::2175376523668954236::1724467752::1724707020::1::::<><>::
 Lips (16 x 16).png::CompressedTexture2D::7205741422907000409::1724467752::1724707020::1::::<><>::
-::res://Mini Pixel Pack 3/Items/::1724467752
+::res://Mini Pixel Pack 3/Items/::1724707020
 Circle_+_Square_+_Missile_pick-ups (16 x 16).png::CompressedTexture2D::4887889672999077803::1724467752::1724707020::1::::<><>::
 Power_item (16 x 16).png::CompressedTexture2D::8069430975310519180::1724467752::1724707020::1::::<><>::
-::res://Mini Pixel Pack 3/Player ship/::1724467752
+::res://Mini Pixel Pack 3/Player ship/::1724707020
 Boosters (16 x 16).png::CompressedTexture2D::8894506263431708829::1724467752::1724707020::1::::<><>::
 Boosters_left (16 x 16).png::CompressedTexture2D::6345483512822790872::1724467752::1724707020::1::::<><>::
 Boosters_right (16 x 16).png::CompressedTexture2D::468988977570457639::1724467752::1724707020::1::::<><>::
 Player_ship (16 x 16).png::CompressedTexture2D::9127639629288107451::1724467752::1724707020::1::::<><>::
-::res://Mini Pixel Pack 3/Projectiles/::1724467752
+::res://Mini Pixel Pack 3/Projectiles/::1724707020
 Enemy_projectile (16 x 16).png::CompressedTexture2D::6895707212907618485::1724467752::1724707020::1::::<><>::
 Player_beam (16 x 16).png::CompressedTexture2D::6651113254538800598::1724467752::1724707020::1::::<><>::
 Player_charged_beam (16 x 16).png::CompressedTexture2D::487963106382838843::1724467752::1724707020::1::::<><>::
@@ -36,7 +36,7 @@ Player_charged_square_shot (16 x 16).png::CompressedTexture2D::52775294743273367
 Player_donut_shot (16 x 16).png::CompressedTexture2D::3803733891447871053::1724467752::1724707020::1::::<><>::
 Player_missile_shots (16 x 16).png::CompressedTexture2D::1632383571500897907::1724467752::1724707020::1::::<><>::
 Player_square_shot (16 x 16).png::CompressedTexture2D::8927444532123675480::1724467752::1724707020::1::::<><>::
-::res://Mini Pixel Pack 3/UI objects/::1724467752
+::res://Mini Pixel Pack 3/UI objects/::1724707020
 GAME_OVER (72 x 8).png::CompressedTexture2D::6412851451056576946::1724467752::1724707020::1::::<><>::
 Item_held_box (16 x 16).png::CompressedTexture2D::3827477515368468180::1724467752::1724707020::1::::<><>::
 Number_font (8 x 8).png::CompressedTexture2D::352546938764685749::1724467752::1724707020::1::::<><>::

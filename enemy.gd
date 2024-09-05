@@ -6,6 +6,10 @@ func _process(delta):
 	print(cos(position.y))
 
 func explode():
+	set_process(false)
+	$Sprite2D.hide()
+	$AnimatedSprite2D.play("default")
+	await $AnimatedSprite2D.animation_finished
 	queue_free()
 
 
@@ -13,3 +17,4 @@ func _on_area_entered(area):
 	if area.is_in_group("player"):
 		area.explode()
 		queue_free()
+		
