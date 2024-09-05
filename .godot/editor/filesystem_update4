@@ -3,3 +3,4 @@ res://bullet.tscn
 res://enemy.tscn
 res://player.tscn
 res://enemy.gd
+res://player.gd

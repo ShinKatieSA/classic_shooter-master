@@ -40,5 +40,23 @@ func _process(delta):
 
 func _on_timer_timeout():
 	can_shoot = true
+
+
+
+
+func explode():
+	set_process(false)
+	$Sprite2D.hide()
+	$explosion.play("default")
+	await $explosion.animation_finished
+	queue_free()
+	
+func _on_area_entered(area):
+	if area.is_in_group("enemies"):
+		area.explode()
+		queue_free()
+		
+		
+
 		
 	

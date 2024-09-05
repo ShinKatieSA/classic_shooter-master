@@ -13,8 +13,4 @@ func explode():
 	queue_free()
 
 
-func _on_area_entered(area):
-	if area.is_in_group("player"):
-		area.explode()
-		queue_free()
 		
